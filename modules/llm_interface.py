@@ -3,7 +3,7 @@ import requests
 
 def call_llm(prompt):
     headers = {
-        "Authorization": "de3MaxMVwIqHZTSxsqVcRVxvmdaZDMUK",  # 👈 把這裡換成你的
+        "Authorization": "別想蹭我api",  # 👈 把這裡換成你的
         "Content-Type": "application/json"
     }
     payload = {
